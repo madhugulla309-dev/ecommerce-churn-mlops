@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+mlruns/
+notebooks/
+artifacts/*.csv
+artifacts/*.png
+.git/

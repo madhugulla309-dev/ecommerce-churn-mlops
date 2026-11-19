@@ -1,0 +1,9 @@
+data/raw/*.csv
+artifacts/master_cleaned_customers.csv
+artifacts/train.csv
+artifacts/test.csv
+artifacts/scored_predictions_for_powerbi.csv
+__pycache__/
+*.pyc
+mlruns/
+.env
